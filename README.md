@@ -19,7 +19,7 @@ A simple improvement project over Arief Yudhawarman's Project. Credits to Arief 
 ### PREREQUISITES:
 1. PHP v7
 2. MikroTik Devices that supports WiFi and CapsMan
-3. Web server with MySQL (XAMPP Recomemended)
+3. Web server with MySQL (XAMPP Recomemended). Database included but feel free to make one.
 
 ### HOW TO INSTALL:
 1. Configure your CapsMan. Make sure your CapsMan master interface already set up including the RouterOS API and user access (Grant full access).
