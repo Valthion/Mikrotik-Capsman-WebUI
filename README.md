@@ -3,7 +3,7 @@
 ## BY: Arief Yudhawarman | awarmanf.wordpress.com
 ## MODIFIED BY: Valen Brata | github.com/Valthion
 
-A simple improvement project over Arief Yudhawarman's Project. Credits to Arief Yudhawarman (awarmanf.wordpress.com)
+A simple improvement project over Arief Yudhawarman's Project. Credits to Arief Yudhawarman (awarmanf.wordpress.com).
 The original project has deprecated syntaxes and API so it must be reworked almost completely.
 ***These codes tested on RouterOS v6.44.6 - v6.48.6***
 
