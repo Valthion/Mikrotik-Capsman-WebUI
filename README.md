@@ -61,6 +61,6 @@ DEFINE ('API_PASS', 'password');
 ### KNOWN ISSUES:
 1. Channel should be chosen when setting the ap.
 2. Empty ssid will return to default value you've set in winbox configurations. If nothing is set (textbox empty and no SSID in configurations), it will appears empty but the old SSID still present.
-3. Many undefined index errors which occurs due to empty data/arrays but mostly it won't affect the app. Make sure to turn off your error display in php to avoid this.
+3. Many undefined index errors which occurs due to empty data/arrays but mostly it won't affect the app (ex. No slaves in CapsMan or no clients connected). Make sure to turn off your error display in php to avoid this.
 ![ERROR_1_NO_SLAVES](https://user-images.githubusercontent.com/65765848/153013578-38920021-43a4-487c-984c-72a2a3122561.png)
 ![ERROR_2_NO_CLIENT](https://user-images.githubusercontent.com/65765848/153013600-31713556-4ce1-4d6f-825c-07fe742b3bee.png)
