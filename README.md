@@ -40,5 +40,11 @@ CREATE TABLE `hostname` (
 8. Enjoy!
 
 ### KNOWN ISSUES:
-1. CHANNEL SHOULD BE CHOSEN WHEN SETTING THE AP. EMPTY SSID WILL RETURN TO DEFAULT VALUE YOU'VE SET IN WINBOX CONFIGURATIONS.
-2. MANY UNDEFINED INDEX ERRORS WHICH OCCURS DUE TO EMPTY DATA/ARRAYS BUT MOSTLY IT WON'T AFFECT THE APP. MAKE SURE TO TURN OFF YOUR ERROR DISPLAY IN PHP TO AVOID THIS.
+1. Channel should be chosen when setting the ap. Empty ssid will return to default value you've set in winbox configurations.
+2. Many undefined index errors which occurs due to empty data/arrays but mostly it won't affect the app. Make sure to turn off your error display in php to avoid this.
+![ERROR_1_NO_SLAVES](https://user-images.githubusercontent.com/65765848/153013578-38920021-43a4-487c-984c-72a2a3122561.png)
+![ERROR_2_NO_CLIENT](https://user-images.githubusercontent.com/65765848/153013600-31713556-4ce1-4d6f-825c-07fe742b3bee.png)
+
+### PICTURES:
+![WORKING](https://user-images.githubusercontent.com/65765848/153013685-f47b0720-f6e7-4104-80bd-115b6f2a56e1.png)
+![WORKING_2](https://user-images.githubusercontent.com/65765848/153013716-33d0db18-f846-453e-9201-cf5a5c140a9f.png)
