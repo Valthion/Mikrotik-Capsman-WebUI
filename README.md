@@ -5,6 +5,9 @@
 
 A simple improvement project over Arief Yudhawarman's Project. Credits to Arief Yudhawarman (awarmanf.wordpress.com)
 
+![WORKING](https://user-images.githubusercontent.com/65765848/153013685-f47b0720-f6e7-4104-80bd-115b6f2a56e1.png)
+![WORKING_2](https://user-images.githubusercontent.com/65765848/153013716-33d0db18-f846-453e-9201-cf5a5c140a9f.png)
+
 ### FEATURES:
 1. CHANGING SSID NAME (MASTER ONLY)
 2. ADD AND CLEAR PASSWORD (MASTER ONLY)
@@ -44,7 +47,3 @@ CREATE TABLE `hostname` (
 2. Many undefined index errors which occurs due to empty data/arrays but mostly it won't affect the app. Make sure to turn off your error display in php to avoid this.
 ![ERROR_1_NO_SLAVES](https://user-images.githubusercontent.com/65765848/153013578-38920021-43a4-487c-984c-72a2a3122561.png)
 ![ERROR_2_NO_CLIENT](https://user-images.githubusercontent.com/65765848/153013600-31713556-4ce1-4d6f-825c-07fe742b3bee.png)
-
-### PICTURES:
-![WORKING](https://user-images.githubusercontent.com/65765848/153013685-f47b0720-f6e7-4104-80bd-115b6f2a56e1.png)
-![WORKING_2](https://user-images.githubusercontent.com/65765848/153013716-33d0db18-f846-453e-9201-cf5a5c140a9f.png)
