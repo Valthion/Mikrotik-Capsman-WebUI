@@ -40,7 +40,21 @@ CREATE TABLE `hostname` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
 5. Edit mysql.inc.php by entering your MySQL username and password, then host and database name.
+```
+EXAMPLE:
+DEFINE ('DB_USER', 'root');
+DEFINE ('DB_PASSWORD', '');
+DEFINE ('DB_HOST', 'localhost');
+DEFINE ('DB_NAME', 'capsman');
+```
 6. Edit capsman.inc.php by entering your CapsMan IP, Gateway IP, API user and API password. If the CapsMan perform as the gateway as well, fill with same IP.
+```
+EXAMPLE:
+DEFINE ('IP_CAPS', '192.168.214.100');
+DEFINE ('IP_GW', '192.168.214.100');
+DEFINE ('API_USR', 'usrapi');
+DEFINE ('API_PASS', 'password');
+```
 7. Access it via your webserver (ex. http://web_server_ip/capsman/)
 8. Enjoy!
 
