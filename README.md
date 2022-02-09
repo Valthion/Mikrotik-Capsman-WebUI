@@ -17,7 +17,7 @@ The original project has deprecated syntaxes and API so it must be reworked almo
 4. BLOCK AND UNBLOCK CLIENTS
 5. RESTART AP
 6. CONFIGURE CHANNEL FREQUENCIES AND TX POWER
-*To clear password, just leave it blank. Security auth types will be automatically cleared.
+- *To clear password, just leave it blank. Security auth types will be automatically cleared.
 
 ### PREREQUISITES:
 1. PHP v7
