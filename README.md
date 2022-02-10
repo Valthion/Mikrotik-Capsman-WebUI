@@ -26,9 +26,10 @@ The original project has deprecated syntaxes and API so it must be reworked almo
 
 ### HOW TO INSTALL:
 1. Configure your CapsMan. Make sure your CapsMan master interface already set up including the RouterOS API and user access (Grant full access).
-2. Install web server.
-3. Put these codes into a folder (ex. capsman) and put the folder in the htdocs folder.
-4. Create a database with hostname table. Follow this:
+2. To set the channel frequency, make sure make a template for it. You can change the option in configCaps.php and index.php
+3. Install web server.
+4. Put these codes into a folder (ex. capsman) and put the folder in the htdocs folder.
+5. Create a database with hostname table. Follow this:
 ```
 DROP TABLE IF EXISTS `hostname`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
