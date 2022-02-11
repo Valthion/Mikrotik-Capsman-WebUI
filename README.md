@@ -4,7 +4,7 @@
 ## MODIFIED BY: Valen Brata | github.com/Valthion
 
 A simple improvement project over Arief Yudhawarman's Project. Credits to Arief Yudhawarman (awarmanf.wordpress.com).
-The original project has deprecated syntaxes and API so it must be reworked almost completely.
+The original project has deprecated syntaxes and API so it must be reworked almost completely while at the same time adding new features.
 ***These codes tested on RouterOS v6.44.6 - v6.48.6***
 
 ![WORKING](https://user-images.githubusercontent.com/65765848/153013685-f47b0720-f6e7-4104-80bd-115b6f2a56e1.png)
